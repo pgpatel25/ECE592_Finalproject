@@ -13,6 +13,7 @@ ifdef CROSS_COMPILE
 endif
 
 SRCS :=         \
+  hello_world.c \
   ldb_traffic.c \
   dir_traffic.c \
 
